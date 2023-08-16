@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: airflow-provider-dropbox
+Version: 0.0.0
+Summary: A sample Apache Airflow provider package built by Astronomer.
+Author-email: Igor Plotnikov <plotnikov.sseu@gmail.com>
+License: Apache License 2.0
+Project-URL: Source, https://github.com/iplotnikov-telemedicine/airflow-provider-dropbox/
+Classifier: Framework :: Apache Airflow
+Classifier: Framework :: Apache Airflow :: Provider
+Requires-Python: ~=3.9
+Description-Content-Type: text/markdown
